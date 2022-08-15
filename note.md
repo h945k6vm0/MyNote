@@ -7,7 +7,7 @@ https://app.vagrantup.com/ubuntu/boxes/trusty64
 * 狀態:`git status`
 * 需存檔的檔案:`git add 檔名`
 * 存檔:`git commit -m "XXX"`
-* 同步到雲端:`git push origin master
+* 同步到雲端:`git push origin master`
 
 * 到某資料夾:`cd xxx` 
 * 上一頁:`cd ..` 
