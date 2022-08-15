@@ -1,0 +1,28 @@
+https://app.vagrantup.com/ubuntu/boxes/trusty64
+
+虛擬機:Vagrantfile
+開啟虛擬機:vagrant up
+虛擬機休眠:vagrant suspend
+
+
+
+# 註解
+cd xxx # 去xxx
+cd .. # 上一頁
+mkdir 資料夾名稱
+teamviewer
+
+powershell .\ddd.ps` # 執行ddd.ps腳本
+訣竅 => 死命按tab
+
+
+# 下載專案
+git clone https://github.com/iot-lora/arduino.git arduinoXXXX
+
+# 關鍵字+ (許願思維)
+XXX github 
+XXX bash
+
+
+=> install 
+
