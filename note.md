@@ -15,7 +15,7 @@ https://app.vagrantup.com/ubuntu/boxes/trusty64
 
 teamviewer
 
-powershell .\腳本名` # 執行腳本
+`powershell 腳本名` # 執行腳本
 
 訣竅 => 死命按tab
 
