@@ -15,12 +15,13 @@ https://app.vagrantup.com/ubuntu/boxes/trusty64
 
 teamviewer
 
-powershell .\ddd.ps` # 執行ddd.ps腳本
+powershell .\腳本名` # 執行腳本
+
 訣竅 => 死命按tab
 
 
 # 下載專案
-git clone https://github.com/iot-lora/arduino.git arduinoXXXX
+`git clone 網址 arduino資料夾`
 
 # 關鍵字+ (許願思維)
 XXX github 
